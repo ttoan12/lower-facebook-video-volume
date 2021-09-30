@@ -10,9 +10,7 @@ This is an userscript, not an application nor extension, this can be used by eit
 
 ## Disclaimer:
 
-I made the script for my own personal use.  
-I am not responsible for anything that may happen to your browser or your account.  
-You can use this script at your own risk.
+I made the script for my own personal use. I am not responsible for anything that may happen to your browser or your account. You can use this script at your own risk.
 
 
 ## Features:
