@@ -7,8 +7,8 @@
 // @license      https://creativecommons.org/publicdomain/zero/1.0/
 // @homepage     https://github.com/ttoan12/lower-facebook-video-volume/
 // @icon         https://www.google.com/s2/favicons?domain=facebook.com
-// @updateURL    https://github.com/ttoan12/lower-facebook-video-volume/raw/6e361ed1ab4d3193012e709ff1f84561263ef822/lower-facebook-video-volume.user.js
-// @downloadURL  https://github.com/ttoan12/lower-facebook-video-volume/raw/6e361ed1ab4d3193012e709ff1f84561263ef822/lower-facebook-video-volume.user.js
+// @updateURL    https://github.com/ttoan12/lower-facebook-video-volume/raw/main/lower-facebook-video-volume.user.js
+// @downloadURL  https://github.com/ttoan12/lower-facebook-video-volume/raw/main/lower-facebook-video-volume.user.js
 // @supportURL   https://github.com/ttoan12/lower-facebook-video-volume/issues/
 // @match        *.facebook.com
 // @grant        none
